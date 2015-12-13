@@ -19,7 +19,6 @@ Column names should match with issue statuses
 
 Users should have same emails in redmine and kanbanery
 
-
 == Возможности
 - Экспорт задач из redmine в kanbanery
 - Синхронизация статусов и ответственных между kanbanery и redmine 2.x
