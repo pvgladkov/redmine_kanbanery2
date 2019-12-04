@@ -22,7 +22,7 @@ Users should have same emails in redmine and kanbanery
 == Возможности
 - Экспорт задач из redmine в kanbanery
 - Синхронизация статусов и ответственных между kanbanery и redmine 2.x
-Для Redmine 1.x используйте https://github.com/webgeist/redmine_kanbanery/tree/redmine1x
+Для Redmine 1.x используйте https://github.com/pvgladkov/redmine_kanbanery/tree/redmine1x
 
 == Установка
 Выполнить:
